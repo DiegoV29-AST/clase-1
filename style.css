@@ -1,7 +1,7 @@
 
 
 html, body {
-  font-family:Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   margin: 0;
   padding: 0;
   background: silver
@@ -13,14 +13,14 @@ canvas {
 }
 
 div.texto{
-  margin: 2rem auto;
-  width: min(90vw, 800px);
-  padding: 1rem;
+  margin: 2 rem auto;
+  width: min (90 vw, 800 px);
+  padding: 1 rem;
   text-align: left;
-  background:rgba(255,255,255,.5);
-  box-shadow: 0 0 5px rgba(0,0,0,.25);
-  border-radius: 10px;
-  backdrop-filter: blur(5px);
+  background: rgba (255,255,255,.5);
+  box-shadow: 0 0 5 px rgba (0,0,0,.25);
+  border-radius: 10 px;
+  backdrop-filter: blur (5 px);
 }
 
 ol{
@@ -29,14 +29,14 @@ ol{
 }
 li{
   list-style: none;
-  line-height: 2rem;
-  border-bottom: 1px solid silver;
+  line-height: 2 rem;
+  border-bottom: 1 px solid silver;
   display: flex;
-  padding: .2rem 0;
+  padding: .2 rem 0;
 }
 li img {
-  border-radius: 50% 50%;
-  width: 2rem;
-  height: 2rem;
-  margin-right: 1rem
+  border-radius: 50 % 50 %;
+  width: 2 rem;
+  height: 2 rem;
+  margin-right: 1 rem
 }
